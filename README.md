@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-AI-c3e0e7?style=flat-square" alt="Python & AI" />
 </div>
 
-# Hi there, I'm Annni200820! 👋
+# Hi there, I'm Anyan Ni! 👋
 
 I'm currently a high school student at Hangzhou Foreign Languages School, where I blend my love for technology with a passion for art history and ancient coins.
 
